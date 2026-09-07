@@ -16,8 +16,8 @@
 <img style="border-radius: 10px; height: 300px; width: auto;" src="https://github.com/Jacob-Lor/Jacob-Lor/blob/main/8A9D613F-D440-4312-A83E-2C49B326427C_1_105_c.jpeg">
 
 <!--Fun Facts Section:-->
-<h3">Fun Facts About Me: ></h3>
-<ul">
+<h3>Fun Facts About Me: </h3>
+<ul>
  <li>I love walking</li>
  <li>I cook some pretty good tomato sauce</li>
  <li>I'm really interested in computer hardware & firmware</li>
