@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+//Essential Information
  I'm Jacob Lor, an EE @ U of T.
 
  I'm young and eager to learn new things! 
@@ -8,6 +9,11 @@
 
  I've got a couple of projects, but the one I'm most proud of right now is this implementaiton of [Monopoly with JavaFx](https://github.com/x-SHH-ICS4U-2526/ics4u-rst-JacobLorSHH).
 
+//Seperation
+<br>
+<br>
+
+//Fun Facts Section:
 <h3 style="margin-bottom: -20px"><strong>Fun Facts About Me:</strong>></h3>
 <ul style="margin-top:-20px;">
  <li>I love walking</li>
