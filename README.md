@@ -14,7 +14,7 @@
 <br>
 
 <img style="border-radius: 10px; height: 300px; width: auto;" src="https://github.com/Jacob-Lor/Jacob-Lor/blob/main/8A9D613F-D440-4312-A83E-2C49B326427C_1_105_c.jpeg">
-Evidence:
+Proof
 
 <!--Fun Facts Section:-->
 <h3 style="margin-bottom: -20px"><strong>Fun Facts About Me:</strong>></h3>
