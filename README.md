@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<img src="https://github.com/Jacob-Lor/Jacob-Lor/blob/main/8A9D613F-D440-4312-A83E-2C49B326427C_1_105_c.jpeg">
+<img style="border-radius:5px; height=50px; width=auto;"src="https://github.com/Jacob-Lor/Jacob-Lor/blob/main/8A9D613F-D440-4312-A83E-2C49B326427C_1_105_c.jpeg">
 Evidence:
 
 <!--Fun Facts Section:-->
