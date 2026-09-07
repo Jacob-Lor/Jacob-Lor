@@ -9,7 +9,7 @@
  I've got a couple of projects, but the one I'm most proud of right now is this implementaiton of [Monopoly with JavaFx](https://github.com/x-SHH-ICS4U-2526/ics4u-rst-JacobLorSHH).
 
 **Fun Facts About Me:**
-<ul style="margin-top:0px;">
+<ul style="margin-top:-20px;">
  <li>I love walking</li>
  <li>I cook some pretty good pasta</li>
  <li>I'm really interested in computer hardware & firmware</li>
