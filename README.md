@@ -7,7 +7,7 @@
  
  Especially in the domain of **electronics** & **OS**.
 
- I've got a couple of projects, but the one I'm most proud of right now is this implementaiton of [Monopoly with JavaFx]([https://github.com/x-SHH-ICS4U-2526/ics4u-rst-JacobLorSHH](https://github.com/Jacob-Lor/ics4u-rst-JacobLor)).
+ I've got a couple of projects, but the one I'm most proud of right now is this implementation of [Monopoly with JavaFx](https://github.com/Jacob-Lor/ics4u-rst-JacobLor).
 
 <!--Seperation-->
 <br>
